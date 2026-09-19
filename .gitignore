@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+# 本仓库只保存方法和模板
+/output/
+/tmp/
+*.pdf
+*.ppt
+*.pptx
